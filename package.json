@@ -1,0 +1,27 @@
+{
+  "name": "angular-starter",
+  "private": true,
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "dependencies": {
+    "@angular/animations": "^v18.1.0-next.4",
+    "@angular/common": "^v18.1.0-next.4",
+    "@angular/compiler": "^v18.1.0-next.4",
+    "@angular/core": "^v18.1.0-next.4",
+    "@angular/forms": "^v18.1.0-next.4",
+    "@angular/platform-browser": "^v18.1.0-next.4",
+    "@angular/router": "^v18.1.0-next.4",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.5.0",
+    "zone.js": "~0.14.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^v18.1.0-next.4",
+    "@angular/cli": "^18.0.1",
+    "@angular/compiler-cli": "^v18.1.0-next.4",
+    "typescript": "~5.4.0"
+  }
+}
